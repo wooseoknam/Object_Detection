@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crawled_img</folder>
+	<filename>car_16.jpg</filename>
+	<path>/Users/wooseoknam/Desktop/Object_Detection/crawled_img/car_16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>269</width>
+		<height>188</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>78</ymin>
+			<xmax>191</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>
